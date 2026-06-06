@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 **Full-Stack Developer** with over 4 years of experience building scalable web and mobile applications. Driven by high-performance systems, robust backend architectures, and secure infrastructure.
+👨‍💻 **Full-Stack Developer** with over 2 years of experience building scalable web and mobile applications. Driven by high-performance systems, robust backend architectures, and secure infrastructure.
 
 * 🔭 **Currently Building:** [CampusGrid / Sikshatantar](https://staging.sikshatantar.app) — A large-scale, high-performance multi-tenant school management SaaS platform.
 * 🌱 **Deep Diver:** Transitioning core services to **Rust** for microservices and learning advanced offensive security/penetration testing workflows.
